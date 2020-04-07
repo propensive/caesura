@@ -1,3 +1,4 @@
-tests/lib
-target/
-.idea/
+.bloop
+.bsp
+.fury
+.done
